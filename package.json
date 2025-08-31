@@ -1,0 +1,26 @@
+{
+  "name": "addon-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "lint": "node ./src/lint.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "image-size": "^2.0.2",
+    "mime-types": "^3.0.1",
+    "nanoid": "^5.1.5",
+    "uuid": "^11.1.0"
+  }
+}

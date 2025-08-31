@@ -1,0 +1,16 @@
+{
+    "id": "org.addon-example",
+    "version": "1.0.0",
+    "name": "Addon example",
+    "description": "An example addon for Streamio",
+    "resources": ["stream"],
+    "types": ["Tv"],
+    "idPrefixes": ["tt"],
+    "entryPoints": {
+        "tv": {
+            "url": "https://yourdomain.com"
+        }
+     },
+    "logo": "https://yourdomain.com/logo.png"
+}
+  

@@ -1,0 +1,17 @@
+[
+    {
+      "categoryId": "1",
+      "name": "Nicktoons",
+      "hls": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+      "backdrop": "https://api-streamio-production.up.railway.app/channel/68277f552d843a9cb86663f4/backdrop.png",
+      "imageUrl": "https://canvas-lb.tubitv.com/opts/X64MlRvuEKn1ZQ==/7d258341-afc7-4022-acd4-ce330c6db573/CHgQeDoFMS4xLjhAAQ=="
+    },
+    {
+      "categoryId": "2",
+      "name": "Crime TV",
+      "hls": "https://fl1.moveonjoy.com/CRIMETV/index.m3u8",
+      "backdrop": "https://api-streamio-production.up.railway.app/channel/68277f552d843a9cb86663f4/backdrop.png",
+      "imageUrl": "https://canvas-lb.tubitv.com/opts/X64MlRvuEKn1ZQ==/7d258341-afc7-4022-acd4-ce330c6db573/CHgQeDoFMS4xLjhAAQ=="
+    }
+  ]
+  
