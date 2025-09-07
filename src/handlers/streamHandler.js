@@ -19,6 +19,7 @@ export async function handleStream(type) {
       // const id = `${uniqueID}-${channel.slug}-${nanoid(6)}`;
       // const imageMeta = await validateImageDimensions(channel.imageUrl);
       streams.push({
+        id: channel.id,
         categoryId: channel.categoryId,
         name: channel.name,
         summary: `Watch ${channel.name}`,
