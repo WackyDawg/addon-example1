@@ -7,8 +7,6 @@ const __dirname = path.dirname(__filename);
 
 const m3uFile = path.join(__dirname, 'channels.m3u');
 const outputJsonFile = path.join(__dirname, 'channels.json');
-const fixedId = "13"; 
-let autoId = 1;
 
 function slugify(text) {
   return text
@@ -30,16 +28,27 @@ function parseM3U(content) {
 
       const tvgIdMatch = infoLine.match(/tvg-id="([^"]+)"/);
       const logoMatch = infoLine.match(/tvg-logo="([^"]+)"/);
+      const referrerMatch = infoLine.match(/http-referrer="([^"]+)"/) || infoLine.match(/http-referer="([^"]+)"/i);
 
       const tvgId = tvgIdMatch ? tvgIdMatch[1] : 'Unknown';
       const logo = logoMatch ? logoMatch[1] : '';
+      const hasReferrer = !!referrerMatch;
+      const refererHeader = hasReferrer ? referrerMatch[1] : '';
+      const categoryId = "20"
 
       output.push({
-        id: fixedId || (autoId++).toString(),
-        slug: slugify(tvgId),
+        id: "",
+        categoryId: categoryId,               
+        iptvOrgId: tvgId,
         name: tvgId,
         hls: urlLine,
-        imageUrl: logo
+        backdrop: "",
+        imageUrl: logo,
+        isAuth: hasReferrer,
+        headers: {
+          Referer: refererHeader,
+          Authorization: ""
+        }
       });
     }
   }

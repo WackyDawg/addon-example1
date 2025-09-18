@@ -25,12 +25,10 @@ export async function handleStream(type) {
         summary: `Watch ${channel.name}`,
         rating: "PG",
         stitched: {
-          paths: [
-            {
-              type: "hls",
-              path: channel.hls,
-            },
-          ],
+          paths: channel.hls.map(hlsUrl => ({
+            type: "hls",
+            path: hlsUrl,
+          })),
         },
         backdrop: channel.backdrop,
         images: channel.imageUrl,
