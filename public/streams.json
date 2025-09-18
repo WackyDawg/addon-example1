@@ -5,6 +5,7 @@
     "iptvOrgId": "WOLODT1.us",
     "name": "ABC 25 Columbia",
     "hls": [
+      "https://fl6.moveonjoy.com/ABC_EAST/index.m3u8",
       "https://fl6.moveonjoy.com/ABC_EAST/index.m3u8"
     ],
     "backdrop": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2022/10/m/p/abc25-logo.png?etag=%2263598533-7d730%22",
