@@ -6,7 +6,7 @@
     "name": "ABC 25 Columbia",
     "hls": [
       "https://fl6.moveonjoy.com/ABC_EAST/index.m3u8",
-      "https://fl6.moveonjoy.com/ABC_EAST/index.m3u8"
+      "http://143.244.60.30/ABC_EAST/index.m3u8"
     ],
     "backdrop": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2022/10/m/p/abc25-logo.png?etag=%2263598533-7d730%22",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/WOLO_25_2022.svg/1200px-WOLO_25_2022.svg.png"
