@@ -5,6 +5,9 @@ import fs from "fs/promises";
 import { handleStream } from "./handlers/streamHandler.js";
 import "dotenv/config";
 import cors from "cors";
+import { exec } from "child_process";
+import cron from "node-cron";
+
 
 const app = express();
 const port = 7860;
@@ -22,6 +25,26 @@ async function init() {
     preloadedStreams = streams;
   }
 }
+
+const updaterPath = path.join(__dirname, "src/tools", "hls-updater.js");
+
+
+function updateStreams() {
+  exec(`node "${updaterPath}"`, (error, stdout, stderr) => {
+    if (error) {
+      console.error(`Error: ${error.message}`);
+      return;
+    }
+    if (stderr) {
+      console.error(`stderr: ${stderr}`);
+      return;
+    }
+    console.log(`stdout: ${stdout}`);
+  });
+}
+
+cron.schedule("0 * * * *", updateStreams);
+
 
 app.get("/manifest.json", (req, res) => {
   res.sendFile(path.join(__dirname, "manifest.json"));
