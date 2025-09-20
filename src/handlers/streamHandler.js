@@ -16,11 +16,10 @@ export async function handleStream(type) {
     const streams = [];
 
     for (const channel of rawChannels) {
-      // const id = `${uniqueID}-${channel.slug}-${nanoid(6)}`;
-      // const imageMeta = await validateImageDimensions(channel.imageUrl);
       streams.push({
         id: channel.id,
         categoryId: channel.categoryId,
+        iptvOrgId: channel.iptvOrgId,
         name: channel.name,
         summary: `Watch ${channel.name}`,
         rating: "PG",
@@ -32,6 +31,18 @@ export async function handleStream(type) {
         },
         backdrop: channel.backdrop,
         images: channel.imageUrl,
+        isAuth: channel.isAuth,
+        headers: channel.headers,
+        alt_names: channel.alt_names,
+        network: channel.network,
+        owners: channel.owners,
+        country: channel.country,
+        categories: channel.categories,
+        is_nsfw: channel.is_nsfw,
+        launched: channel.launched,
+        closed: channel.closed,
+        replaced_by: channel.replaced_by,
+        website: channel.website,
       });
     }
 
