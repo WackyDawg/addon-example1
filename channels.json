@@ -1,0 +1,3884 @@
+[
+  {
+    "id": "ustv-1a0b178a-23c5-4c06-9217-ceabe2897343",
+    "name": "ABC",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/abc-us.png",
+    "country": "USA",
+    "genre": "Local",  
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300003",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-95d0df98-c758-46e4-af07-5b69dc1c3758",
+    "name": "CBS",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cbs-us.png",
+    "country": "USA",
+    "genre": "Local",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300010",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-a931a508-de1f-4c1e-81eb-f1abffd5e147",
+    "name": "CW ",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cw-us.png",
+    "country": "USA",
+    "genre": "Local",
+    "streams": [
+      {
+        "url": "https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      },
+      {
+        "url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      },
+      {
+        "url": "https://tvpass.org/live/WPIX/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-3902457a-7818-4fbe-8209-9d43a903c784",
+    "name": "Fox",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-us.png",
+    "country": "USA",
+    "genre": "Local",
+    "streams": [
+      {
+        "url": "https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://tvpass.org/live/fox-kttv-los-angeles-ca/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-741a4567-01ea-47e7-adc6-7d8e9c8f14aa",
+    "name": "NBC",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nbc-us.png",
+    "country": "USA",
+    "genre": "Local",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300015",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-4b227650-ac64-4e72-abeb-37c3be65e1df",
+    "name": "PBS",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/pbs-us.png",
+    "country": "USA",
+    "genre": "Local",
+    "streams": [
+      {
+        "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "ST"
+      },
+      {
+        "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "ST"
+      }
+    ]
+  },
+  {
+    "id": "ustv-65290745-c96e-4be8-a3e0-815712ffdc02",
+    "name": "BBC News",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bbc-news-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      },
+      {
+        "url": "https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-8db1fbdf-a241-4fb8-a27c-e03ed269fa75",
+    "name": "Bloomberg TV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bloomberg-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      },
+      {
+        "url": "https://tvpass.org/live/BloombergTV/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-687ec2f8-0593-4a29-813d-1e5ae14edcf5",
+    "name": "C-SPAN 1",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/c-span-1-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/CSPAN/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321",
+    "name": "CNBC",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cnbc-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300009",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/CNBC/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-de1092e3-23c9-40b8-9cd1-c1c11bfb262a",
+    "name": "CNN",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cnn-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/CNN/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      },
+      {
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "WB"
+      }
+    ]
+  },
+  {
+    "id": "ustv-0ef2ecc2-7555-46aa-8996-5291e75da229",
+    "name": "Court TV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/court-tv-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      }
+    ]
+  },
+  {
+    "id": "ustv-461a32d9-7e0a-4112-a194-3c819af43da8",
+    "name": "Fox Business",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-business-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/FoxBusiness/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-7041e64c-37e3-430e-9a09-f4cf7d8c56de",
+    "name": "Fox News",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-news-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300011",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-981759cb-046d-4bbd-8f46-319a6b3d654b",
+    "name": "Fox Weather",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-weather-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      }
+    ]
+  },
+  {
+    "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9",
+    "name": "HLN",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hln-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_HLN/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/HLN/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      },
+      {
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "WB (US-only)"
+      }
+    ]
+  },
+  {
+    "id": "ustv-758c5103-3ae7-481b-b06a-105367095900",
+    "name": "MSNBC",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/msnbc-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300008",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/MSNBC/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-49442e6f-fc9c-423f-8bea-eacf19b54745",
+    "name": "Newsmax",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/newsmax-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300012",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PLX"
+      },
+      {
+        "url": "https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      },
+      {
+        "url": "https://jmp2.uk/stvp-USBA300028QU",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "SMG"
+      },
+      {
+        "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "ST"
+      },
+      {
+        "url": "https://tvpass.org/live/NewsmaxTV/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-ec8f6972-4c67-4943-b48b-51795ca34b8c",
+    "name": "The Weather Channel",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/the-weather-channel-us.png",
+    "country": "USA",
+    "genre": "News",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/TheWeatherChannel/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-99062293-9967-460e-9758-8604557c381a",
+    "name": "ACC Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/acc-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000016",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/ACCNetwork/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-17c92d44-25c9-4461-a964-c6f098dc3b35",
+    "name": "Altitude Sports",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/altitude-sports-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000048",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/altitude-sports-denver/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a",
+    "name": "beIN Sports XTRA ",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bein-sports-xtra-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8?is_lat=0&us_privacy=",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "XM"
+      }
+    ]
+  },
+  {
+    "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436",
+    "name": "Big Ten Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/big-ten-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000047",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/BTN/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-7ba81bf7-3bb4-43c1-946f-bfff70198dd9",
+    "name": "CBS Sports Golazo Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cbs-sports-golazo-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/4000009",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      }
+    ]
+  },
+  {
+    "id": "ustv-4aa99360-c3a8-447c-841f-f6f437851168",
+    "name": "CBS Sports Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cbs-sports-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/4000008",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-a7fa35a3-7f6c-4005-8b10-f9788f9dc5c4",
+    "name": "Chicago Sports Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/chicago-sports-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/4000049",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/chicago-sports-network/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62",
+    "name": "ESPN",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/espn-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000011",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/ESPN/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      },
+      {
+        "url": "https://tvpass.org/live/ESPNU/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-250ba0ff-f8f3-4083-a974-d4b5aca7272b",
+    "name": "ESPN 2",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/espn-2-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/ESPN2/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-330863a7-5ac0-4bc7-91bb-544166ccdb76",
+    "name": "ESPNews",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/espnews-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000014",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/ESPNews/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-5eaa3b36-1569-4d1b-b9bc-13e919ffa97e",
+    "name": "ESPNU",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/espn-u-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000013",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      }
+    ]
+  },
+  {
+    "id": "ustv-ae009881-1735-44e6-a236-1718b3619075",
+    "name": "FanDuel Detroit",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fanduel-detroit-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-b170b018-4a32-4d7e-adc8-d398fb2728b1",
+    "name": "FanDuel Florida",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fanduel-florida-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/fanduel-sports-network-florida/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-338a5ad6-a8f7-48ea-891b-f99aac2af8d5",
+    "name": "FanDuel Great Lakes",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fanduel-great-lakes-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/fanduel-sports-network-great-lakes/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-f417b011-04a1-4550-938f-a01a41c9081b",
+    "name": "FanDuel Indiana",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fanduel-indiana-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/fanduel-sports-indiana/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-4b491567-e3d2-4bfa-86d3-ff66a9bc1733",
+    "name": "FanDuel North",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fanduel-north-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/fanduel-sports-network-north/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-73a47e8e-4255-4d64-8c53-9dee29f549aa",
+    "name": "FanDuel Oklahoma",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fanduel-oklahoma-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/fanduel-sports-network-oklahoma/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-89cd83e7-7a65-4230-b47a-2cd7059180ce",
+    "name": "FanDuel SoCal",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fanduel-socal-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/fanduel-sports-network-socal/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-feca898f-bb29-4d16-862c-22679a6d8bac",
+    "name": "FanDuel Sun",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fanduel-sun-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/fanduel-sports-sun/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-f7bcfff8-1a3c-4c80-b7c0-5f1d28bc5439",
+    "name": "FanDuel West",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fanduel-west-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000046",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/fanduel-sports-network-west/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-e3491658-9784-448c-962e-f94f644d4d89",
+    "name": "FanDuel Wisconsin",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fanduel-wisconsin-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/fanduel-sports-network-wisconsin/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-2c3da59b-2748-47fe-83b1-b3b8c72b8fa2",
+    "name": "Fox Sports",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-sports-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      }
+    ]
+  },
+  {
+    "id": "ustv-3a01ed05-44c1-4c7a-aaff-4775c515d702",
+    "name": "FS1",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-sports-1-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000021",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/FoxSports1/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-17909d85-030e-4152-9de5-9e3d7143c41d",
+    "name": "FS2",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-sports-2-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000022",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/FoxSports2/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-da84bcfd-577e-44ad-974d-fc2e6dc38e81",
+    "name": "Fubo Sports Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fubo-sports-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/stvp-USAJ2200023Z0",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "SMG"
+      }
+    ]
+  },
+  {
+    "id": "ustv-e8b03c04-555a-4137-83f2-ff65522c36de",
+    "name": "Gol TV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/gol-tv-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_GOLTV/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      }
+    ]
+  },
+  {
+    "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0",
+    "name": "Golf Channel",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/golf-channel-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000060",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/GolfChannel/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-87c6ef8e-58eb-41d9-b636-6936a65b8033",
+    "name": "Marquee Sports Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/marquee-sports-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/marquee-sports-network/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-b5e845d0-a157-4cab-9e1f-8917064067ec",
+    "name": "MLB Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/mlb-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000030",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      },
+      {
+        "url": "https://tvpass.org/live/MLBNetwork/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-27781814-d39d-4913-bcd1-58e7e1da4a0d",
+    "name": "MSG",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/msg-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/4000001",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/msg-madison-square-gardens/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      },
+      {
+        "url": "https://tvpass.org/live/msg-plus/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15",
+    "name": "NBA TV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nba-tv-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000031",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      },
+      {
+        "url": "https://tvpass.org/live/NBATV/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-05bb54a8-395c-4c03-ab4e-30fef9e0a532",
+    "name": "NBC Sports Bay Area",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nbc-sports-bay-area-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/nbc-sports-bay-area/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-cf43e372-261c-4fb9-8ca0-819586bbd944",
+    "name": "NBC Sports Boston",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nbc-sports-boston-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/nbc-sports-boston/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-a59579be-1483-4ed2-bc61-f67d736c1080",
+    "name": "NBC Sports California",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nbc-sports-california-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/nbc-sports-california/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-b2d3d015-d6b5-4bfe-9f64-b00a6636ef5e",
+    "name": "NBC Sports Philadelphia",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nbc-sports-philadelphia-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/400051",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/nbc-sports-philadelphia/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-928b8fbc-84ec-404e-a4a6-e05bcc74203d",
+    "name": "NESN",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nesn-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/4000080",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://a1xs.vip/4000004",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_NESN/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      }
+    ]
+  },
+  {
+    "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9",
+    "name": "NFL Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nfl-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000032",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      },
+      {
+        "url": "https://tvpass.org/live/NFLNetwork/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      },
+      {
+        "url": "https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=&usprivacy=&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=4668e023-b670-49eb-bcbc-f0331480b336&tmsid=121705&palnonce=&rdid=4668e023-b670-49eb-bcbc-f0331480b336&islat=0&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "XM"
+      }
+    ]
+  },
+  {
+    "id": "ustv-85afd380-e307-4bb3-a1b2-6901b6c0451a",
+    "name": "NFL RedZone",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nfl-redzone-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000033",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/NFLRedZone/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-7e6eda02-4d13-4ff0-a087-c0cf5d368e0f",
+    "name": "NHL Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nhl-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000034",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/NHLNetwork/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-4dda960c-6461-4d4c-8879-96a76d62d31a",
+    "name": "Pursuit ",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/pursuit-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PLX"
+      },
+      {
+        "url": "https://jmp2.uk/str-6435.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "STR"
+      }
+    ]
+  },
+  {
+    "id": "ustv-5a100578-58ff-4adb-86b0-0efb6de977c1",
+    "name": "Racer Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/racer-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_MAV_TV/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      }
+    ]
+  },
+  {
+    "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f",
+    "name": "SEC Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/sec-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000015",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/SECN/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-af5fde41-f852-49eb-88a2-8dccd97f0a2c",
+    "name": "Spectrum SportsNet",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/spectrum-sportsnet-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/4000006",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      }
+    ]
+  },
+  {
+    "id": "ustv-e44e18a9-3e8c-4a89-8561-54c3e672f25f",
+    "name": "Spectrum SportsNet LA",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/spectrum-sportsnet-la-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/spectrum-sportsnet-la/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-11e39cd9-89df-49d3-922e-b984ac4667a6",
+    "name": "SportsNet New York",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/sportsnet-new-york-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000045",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      },
+      {
+        "url": "https://tvpass.org/live/sportsnet-east/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      },
+      {
+        "url": "https://tvpass.org/live/sportsnet-pacific/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      },
+      {
+        "url": "https://tvpass.org/live/sportsnet-west/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-6e46064a-6d5c-4e5c-bfec-c90e9f67230a",
+    "name": "SportsNet Pittsburgh",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/sportsnet-pittsburgh-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/sportsnet-pittsburgh/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-49e1c52c-7f0d-43f0-926b-28ed5e1039ce",
+    "name": "Tennis Channel",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tennis-channel-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000040",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PLX"
+      },
+      {
+        "url": "https://tvpass.org/live/TennisChannel/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-93a7aa52-e5eb-42b9-83b5-fd11e2659ffb",
+    "name": "Willow",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/willow-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/40000042",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      }
+    ]
+  },
+  {
+    "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751",
+    "name": "YES Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/yes-network-us.png",
+    "country": "USA",
+    "genre": "Sports",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/yes-network/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-b1b573fd-f41b-4b86-b857-a4340d586a1f",
+    "name": "A&E",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/a-and-e-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/AEEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82",
+    "name": "AMC",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/amc-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/AMCEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-3ea31538-b5ad-4dc2-b2a6-6f2b518a2e7d",
+    "name": "BBC America",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bbc-america-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/BBCAmericaEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3",
+    "name": "BET",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bet-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/BETEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647",
+    "name": "Bounce",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bounce-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      }
+    ]
+  },
+  {
+    "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911",
+    "name": "Bravo",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bravo-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/BravoEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1",
+    "name": "Buzzr",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/buzzr-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      }
+    ]
+  },
+  {
+    "id": "ustv-668ac6d2-40e3-4781-849f-597875b979b0",
+    "name": "Charge!",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/charge-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      }
+    ]
+  },
+  {
+    "id": "ustv-f687826d-6325-47cf-afbb-0f91bc5ed5f9",
+    "name": "Cinemax",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cinemax-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_CINEMAX/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/CinemaxEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-7511fa6f-93ad-4634-bd0a-43f80fea6ef3",
+    "name": "CMT",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cmt-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/CMTEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-f85c8296-6d92-423e-9adb-4c2e2975f869",
+    "name": "Comedy Central",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/comedy-central-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/ComedyCentralEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-6f9062e4-918e-4a34-bb29-591953142868",
+    "name": "Comet",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/comet-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      }
+    ]
+  },
+  {
+    "id": "ustv-65dacef4-2e0a-4a86-9963-21870425c42b",
+    "name": "E! Entertainment Television",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/e-entertainment-television-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_E/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/EEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-fd690365-5819-4319-9fa8-df82fe22933a",
+    "name": "Freeform",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/freeform-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/FreeformEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-74728d74-03df-4c60-b3b7-69f1dfc4d8e7",
+    "name": "FX",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fx-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_FX/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/FXEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-d468ed11-c030-418f-93a0-e77b8bf2bc75",
+    "name": "FX Movie Channel",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fx-movie-channel-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/FXMovieChannel/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-a42663ac-2326-4b28-a7c6-989a27ba5bd6",
+    "name": "FXX",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fxx-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_FXX/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/FXXEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591",
+    "name": "Game Show Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/game-show-network-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      },
+      {
+        "url": "https://tvpass.org/live/game-show-network-east/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-e38c3908-7c73-4bc5-bac6-fba8ce88a33b",
+    "name": "Hallmark Channel",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hallmark-channel-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/HallmarkChannelEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-10e7eb8b-7d12-4d6c-94b3-a2d94fe9b828",
+    "name": "Hallmark Family",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hallmark-family-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/HallmarkDrama/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-126c1af6-b39c-4d79-8ba9-e50857f08772",
+    "name": "Hallmark Mystery",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hallmark-mystery-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507",
+    "name": "IFC",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/ifc-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_IFC/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      }
+    ]
+  },
+  {
+    "id": "ustv-aaad2ad4-7621-40d4-b0bb-8da90ad12b5d",
+    "name": "Ion",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/ion-television-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-65453f30085df200085883d8.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      },
+      {
+        "url": "https://tvpass.org/live/IONTVEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-32860c92-16db-4b6d-ab25-5b93dda61d1f",
+    "name": "Laff",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/laff-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      }
+    ]
+  },
+  {
+    "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e",
+    "name": "Lifetime",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/lifetime-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/LifetimeEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-7a1ff7dc-27ec-4028-82ae-7999aea0bb66",
+    "name": "Lifetime Movie Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/lifetime-movie-network-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_LMN/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/LifetimeMoviesEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-9d9eb550-5dde-49d8-8b28-1bb725c6eac3",
+    "name": "MeTV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/metv-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "CV"
+      },
+      {
+        "url": "https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8",
+    "name": "Oxygen True Crime",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/oxygen-true-crime-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      },
+      {
+        "url": "https://tvpass.org/live/OxygenEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-733c0b85-264f-4135-b615-5930efa84351",
+    "name": "Paramount Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/paramount-network-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      }
+    ]
+  },
+  {
+    "id": "ustv-b22f899b-e232-4944-8843-9aa91b5337e5",
+    "name": "Reelz",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/reelz-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_REELZ/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/Reelz/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-05b926f2-1b92-4328-a60f-960ffa0ae974",
+    "name": "Sundance TV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/sundance-tv-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/SundanceTVEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b",
+    "name": "SYFY",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/syfy-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/SyfyEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-3e8788a9-bd9f-4dc2-966b-7d4533174493",
+    "name": "TBS",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tbs-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/TBSEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-afcbd9a8-65b5-496b-a72f-a8a2c998688e",
+    "name": "TCM",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tcm-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/TCMEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-cf1724d6-153f-4c0d-982f-1332de7f2632",
+    "name": "TNT",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tnt-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300001",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/TNTEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-228ceb43-26cc-47b9-a454-a0650d373c63",
+    "name": "TruTV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/trutv-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300002",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_TRUTV/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/truTVEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-8a206fc3-e87d-4283-a502-f186d596ff93",
+    "name": "TV Land",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tv-land-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/tv-land-eastern/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea",
+    "name": "TV One",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tv-one-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/TVOne/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241",
+    "name": "USA Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/usa-network-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/1100020",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/USANetworkEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8",
+    "name": "Vice TV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/vice-tv-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_VICETV/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/VICETV/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61",
+    "name": "We TV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/we-tv-us.png",
+    "country": "USA",
+    "genre": "Entertainment",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/WeTVEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-acba8f14-043f-48b2-a179-85c501e7d6a1",
+    "name": "5StarMax",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cinemax-5-starmax-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      }
+    ]
+  },
+  {
+    "id": "ustv-1cbed173-aaba-4ef1-9f13-07380ee69d4d",
+    "name": "HBO",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_HBO/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/HBOEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-9550ea30-43ea-44a4-a4b3-138aeccc5169",
+    "name": "HBO 2",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-2-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_HBO2/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/HBO2East/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-3cdaf265-f0d7-414e-957e-7ccac07818aa",
+    "name": "HBO Comedy",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-comedy-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300005",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/HBOComedyEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-3a857a03-51e5-4bed-a796-c0785663280c",
+    "name": "HBO Family",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-family-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/HBOFamilyEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-04137863-2391-4ec8-8e4d-d82946162ee1",
+    "name": "HBO Signature",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-signature-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/HBOSignatureEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-d387c6d4-31c5-467f-afc4-891326b3c1ca",
+    "name": "HBO Zone",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hbo-zone-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/HBOZoneEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-fc10fb05-17c3-466d-b178-8d39e39f4be9",
+    "name": "MoreMax",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cinemax-thrillermax-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/MoreMaxEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-74d2e5b1-bdb4-4975-a7f2-a4b9e8250d38",
+    "name": "Showtime",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/showtime-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/ShowtimeEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-1a0c22cc-2069-4ac7-b65d-bb0f33a7d81b",
+    "name": "Showtime 2",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/showtime-2-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/Showtime2East/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-19ee8cb3-7955-4b33-adce-7041f61359d0",
+    "name": "Starz",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/starz-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/StarzEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-a6ec637e-f2fc-4674-a652-0fef6d77674c",
+    "name": "Starz Cinema",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/starz-cinema-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      }
+    ]
+  },
+  {
+    "id": "ustv-568b3305-05c6-48d3-a100-9213583ea0d5",
+    "name": "Starz Comedy",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/starz-comedy-us.png",
+    "country": "USA",
+    "genre": "Premium",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      }
+    ]
+  },
+  {
+    "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920",
+    "name": "AWE",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/awe-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "ST"
+      },
+      {
+        "url": "https://jmp2.uk/str-5289.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "STR"
+      }
+    ]
+  },
+  {
+    "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e",
+    "name": "BET Her",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/bet-her-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/BETHerEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a",
+    "name": "Cooking Channel",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cooking-channel-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/CookingChannel/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe",
+    "name": "Destination America",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/destination-america-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/DestinationAmerica/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-652e0700-d2c2-41b9-8e22-46a1e1ed9ea7",
+    "name": "Discovery Life",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/discovery-life-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/DiscoveryLife/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413",
+    "name": "Food Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/food-network-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/FoodNetworkEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-6eec683c-03c1-4044-b4a6-adbc130ca543",
+    "name": "FYI",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fyi-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/FYIEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-c929c60f-9dc1-415a-8a7e-cc34256b2c87",
+    "name": "HGTV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/hgtv-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/HGTVEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-c57b8324-9749-46ee-ba76-1b2c90983c05",
+    "name": "Oprah Winfrey Network (OWN)",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/oprah-winfrey-network-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/OWNEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda",
+    "name": "Outdoor Channel",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/outdoor-channel-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/OutdoorChannel/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-a333fdc1-1e6c-44e0-ab7c-7a7d7d982a7a",
+    "name": "QVC",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/qvc-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      },
+      {
+        "url": "https://jmp2.uk/str-5421.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "STR"
+      },
+      {
+        "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "XM"
+      }
+    ]
+  },
+  {
+    "id": "ustv-f2b30fc9-ac37-4a1d-82f7-cfb093146833",
+    "name": "RFD-TV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/rfd-tv-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "ST"
+      }
+    ]
+  },
+  {
+    "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09",
+    "name": "TLC",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/tlc-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/TLCEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-c952f45e-73ae-4615-9cae-128749091758",
+    "name": "Travel Channel",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/travel-channel-us.png",
+    "country": "USA",
+    "genre": "Lifestyle",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/str-5734.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "STR"
+      },
+      {
+        "url": "https://tvpass.org/live/TravelChannelEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-9f8101b3-a465-47e7-8554-d8bbd80cea08",
+    "name": "Boomerang",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/boomerang-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/Boomerang/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-73bce33c-1a7e-47b9-938b-3c9cbf156c20",
+    "name": "Cartoon Network",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/cartoon-network-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300032",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/CartoonNetworkEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-f4ce7266-386e-4563-872e-21576026999a",
+    "name": "Discovery Family",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/discovery-family-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/DiscoveryFamily/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-0119400b-71ba-42e0-a381-f77d42c861dd",
+    "name": "Disney Channel",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/disney-channel-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/DisneyChannelEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-61f6cafc-dcd0-4924-8395-10c0b8fd0c9f",
+    "name": "Disney Jr",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/disney-jr-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/DisneyJuniorEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-b25e9331-bc95-4e31-afaf-54301ff1d1dd",
+    "name": "Disney XD",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/disney-xd-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/DisneyXDEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-7a8bd02a-c334-450d-a7f8-64263a64757f",
+    "name": "Nick Jr",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nick-jr-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300033",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/NickJrEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-34816a47-4eb5-4ee1-862a-dd277ce9e36b",
+    "name": "Nickelodeon",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nick-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300030",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/NickelodeonEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-5513d11d-b8f7-4d27-89cd-f2f982dd95da",
+    "name": "Nicktoons",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nicktoons-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/NicktoonsEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-2efafb96-d9f0-4d3f-a962-0afac0464062",
+    "name": "PBS Kids",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/pbs-kids-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "ST"
+      }
+    ]
+  },
+  {
+    "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e",
+    "name": "TeenNick",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/teennick-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300031",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "https://tvpass.org/live/TeenNickEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-992a0e3f-3b94-428a-951b-d91e33c1b7bc",
+    "name": "Toonami Aftermath (East)",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/toonami-aftermath.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "ST"
+      }
+    ]
+  },
+  {
+    "id": "ustv-c0424f2d-a2d1-4d65-9843-26e913cd0f9f",
+    "name": "Universal Kids",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/universal-kids-us.png",
+    "country": "USA",
+    "genre": "Kids",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/UniversalKidsEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76",
+    "name": "Animal Planet",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/animal-planet-us.png",
+    "country": "USA",
+    "genre": "Documentaries",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300035",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/AnimalPlanetEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-c9ab10dd-a3d5-4b6c-ba5c-e7c8a9f9f811",
+    "name": "Crime+ Investigation",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/crime-and-investigation-us.png",
+    "country": "USA",
+    "genre": "Documentaries",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-6732499ce40c4a0008bb9894.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      },
+      {
+        "url": "https://tvpass.org/live/CrimePlusInvestigation/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-037691f3-c5f8-4d03-85bf-f0b099febe65",
+    "name": "Discovery Channel",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/discovery-channel-us.png",
+    "country": "USA",
+    "genre": "Documentaries",
+    "streams": [
+      {
+        "url": "https://a1xs.vip/300034",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "AX"
+      },
+      {
+        "url": "http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/DiscoveryChannelEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-0a4782bd-5d12-4b97-9f74-4f3f3f6512c3",
+    "name": "History",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/history-us.png",
+    "country": "USA",
+    "genre": "Documentaries",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/HistoryEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-f4a7124d-7a6e-4e2e-908a-10b51e7ecf4e",
+    "name": "Investigation Discovery ",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/investigation-discovery-us.png",
+    "country": "USA",
+    "genre": "Documentaries",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/InvestigationDiscoveryEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-8d6341a1-c636-4317-a69b-2604f2a0fb7b",
+    "name": "MotorTrend",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/motor-trend-us.png",
+    "country": "USA",
+    "genre": "Documentaries",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/Motortrend/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-c42b1f0f-8927-4927-83ec-260e771ef140",
+    "name": "National Geographic ",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/national-geographic-us.png",
+    "country": "USA",
+    "genre": "Documentaries",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/NationalGeographicEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-b1d2b06e-80dc-4e15-b648-5567dc05f1c8",
+    "name": "National Geographic  Wild",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/national-geographic-wild-us.png",
+    "country": "USA",
+    "genre": "Documentaries",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/NationalGeographicWildEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-7b303fb9-9bde-4b7d-8adf-5c336e32aff7",
+    "name": "Science Channel",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/science-channel-us.png",
+    "country": "USA",
+    "genre": "Documentaries",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/Science/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-950f4f62-ed89-4d64-8628-da23099489fc",
+    "name": "Fuse",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fuse-us.png",
+    "country": "USA",
+    "genre": "Music",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/FuseEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-7ff076f8-51df-4b5e-9a61-d3896b534034",
+    "name": "MTV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/mtv-us.png",
+    "country": "USA",
+    "genre": "Music",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_MTV/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/MTVEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-9834d249-1dd3-4c62-b56f-9e3bfa1ede7c",
+    "name": "MTV Classic",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/mtv-classic-us.png",
+    "country": "USA",
+    "genre": "Music",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      }
+    ]
+  },
+  {
+    "id": "ustv-f66d9981-63b5-4f56-ac63-1ca78a4c32ca",
+    "name": "MTV2",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/mtv-2-us.png",
+    "country": "USA",
+    "genre": "Music",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/mtv-2-east/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-52d5839a-8384-4c34-bf4d-08aede31b252",
+    "name": "Nick Music",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/nick-music-us.png",
+    "country": "USA",
+    "genre": "Music",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      }
+    ]
+  },
+  {
+    "id": "ustv-844255ca-6732-4e58-8340-88bfef9976f5",
+    "name": "Revolt",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/revolt-us.png",
+    "country": "USA",
+    "genre": "Music",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_REVOLT/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      }
+    ]
+  },
+  {
+    "id": "ustv-90079556-db40-4744-ba02-3336c9179ad5",
+    "name": "VH1",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/vh1-us.png",
+    "country": "USA",
+    "genre": "Music",
+    "streams": [
+      {
+        "url": "http://23.237.104.106:8080/USA_VH1/index.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "MJE"
+      },
+      {
+        "url": "https://tvpass.org/live/VH1East/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-907e51ed-d969-4777-9930-bcdd094b3dd1",
+    "name": "ESPN Deportes",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/espn-deportes-us.png",
+    "country": "USA",
+    "genre": "Latino",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/espn-deportes/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-aa5880ec-185e-4c7c-911a-2ae9b66c5c8d",
+    "name": "EstrellaTV",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/estrella-tv-us.png",
+    "country": "USA",
+    "genre": "Latino",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-5cf0622da00ca1e2f6fac712.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      }
+    ]
+  },
+  {
+    "id": "ustv-5bfcd946-51a1-4604-ac26-1ec96a899f63",
+    "name": "Fox Deportes",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/fox-deportes-us.png",
+    "country": "USA",
+    "genre": "Latino",
+    "streams": [
+      {
+        "url": "https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "PTV"
+      }
+    ]
+  },
+  {
+    "id": "ustv-4be8a414-bc79-41cf-95cd-45a57687b296",
+    "name": "Telemundo",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/telemundo-us.png",
+    "country": "USA",
+    "genre": "Latino",
+    "streams": [
+      {
+        "url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "HD",
+        "description": "ST"
+      },
+      {
+        "url": "https://tvpass.org/live/TelemundoEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  },
+  {
+    "id": "ustv-2d475b96-9351-4049-83e3-f0c164fe63cf",
+    "name": "Univision",
+    "logo": "https://848b3516657c-usatv.baby-beamup.club/public/logos/usa/univision-us.png",
+    "country": "USA",
+    "genre": "Latino",
+    "streams": [
+      {
+        "url": "https://tvpass.org/live/UnivisionEast/sd",
+        "behaviorHints": {
+          "notWebReady": true
+        },
+        "name": "SD",
+        "description": "TP"
+      }
+    ]
+  }
+]

@@ -16,6 +16,13 @@ export async function handleStream(type) {
     const streams = [];
 
     for (const channel of rawChannels) {
+      // Log if hls is missing or invalid
+      if (!Array.isArray(channel.hls)) {
+        console.warn(
+          `Channel ${channel.name || channel.id} has no valid HLS field`
+        );
+      }
+
       streams.push({
         id: channel.id,
         categoryId: channel.categoryId,
@@ -24,10 +31,12 @@ export async function handleStream(type) {
         summary: `Watch ${channel.name}`,
         rating: "PG",
         stitched: {
-          paths: channel.hls.map(hlsUrl => ({
-            type: "hls",
-            path: hlsUrl,
-          })),
+          paths: Array.isArray(channel.hls)
+            ? channel.hls.map((hlsUrl) => ({
+                type: "hls",
+                path: hlsUrl,
+              }))
+            : [],
         },
         backdrop: channel.backdrop,
         images: channel.imageUrl,
@@ -43,6 +52,7 @@ export async function handleStream(type) {
         closed: channel.closed,
         replaced_by: channel.replaced_by,
         website: channel.website,
+        providers: channel.providers
       });
     }
 
